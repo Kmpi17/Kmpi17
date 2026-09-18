@@ -21,7 +21,7 @@ Software Engineer specialized in **Artificial Intelligence, Big Data, and Backen
 | **Languages** | Python, Java, C#, Kotlin, R, SQL, JavaScript |
 | **Backend & Frameworks** | Spring Boot, .NET (xUnit/NUnit), Hibernate, Jakarta EE, REST APIs |
 | **AI & Data Science** | PySpark, PyTorch, Scikit-learn, Pandas, NumPy, Qdrant (Vector DB), LLMs, RAG |
-| **Databases & Cloud** | MySQL, MongoDB, AWS[cite: 10] |
+| **Databases & Cloud** | MySQL, MongoDB, AWS |
 | **DevOps & Environments** | Docker, Git, Active Directory, Linux/Ubuntu, Windows |
 
 ---
